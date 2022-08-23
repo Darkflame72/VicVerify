@@ -1112,7 +1112,7 @@ __metadata:
     "@types/nodemailer": 6.4.5
     "@types/ws": 8.5.3
     colorette: ^2.0.19
-    discord-api-types: ^0.33.5
+    discord-api-types: ^0.37.0
     discord.js: ^13.10.2
     dotenv-cra: ^3.0.2
     husky: 8.0.1
@@ -1891,7 +1891,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"discord-api-types@npm:^0.33.3, discord-api-types@npm:^0.33.5":
+"discord-api-types@npm:^0.33.3":
   version: 0.33.5
   resolution: "discord-api-types@npm:0.33.5"
   checksum: 6dcaad640c5693a69c9a4f5e444e739dde11ba835164ae6fd3dd5a1ab7b4d7f96cd022ed653eeaff2c8051ead0d998a5d502a2915cfacdde596364b82d9e3b3f
@@ -1902,6 +1902,13 @@ __metadata:
   version: 0.36.3
   resolution: "discord-api-types@npm:0.36.3"
   checksum: 3089c0fb37425dc5df03c76d82988d43fcc272699b06a02fc830d0a3bef550009aaebdf6d646529e8a7ccea76ae3f43b099d736ea5ef37a0be143142ab49871d
+  languageName: node
+  linkType: hard
+
+"discord-api-types@npm:^0.37.0":
+  version: 0.37.4
+  resolution: "discord-api-types@npm:0.37.4"
+  checksum: 18b74acfcd5f6c554668eb5cb31a5db9076dfb5cb6b5c538a342ab9d22816644bada22a66285468fe7dd9980287921d5d50ba3b11cc8e391fe4f09e761bcd179
   languageName: node
   linkType: hard
 
